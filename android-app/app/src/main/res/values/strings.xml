@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhishDetector</string>
+    <string name="analyze">Analyze Message</string>
+    <string name="history">View History</string>
+    <string name="share">Share Result</string>
+    <string name="clear_history">Clear History</string>
+</resources>
